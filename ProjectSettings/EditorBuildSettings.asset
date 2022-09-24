@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Desktop/InitialScreen.unity
+    guid: fb27fb9833c51c44abbc3e5a98ef0d8b
+  - enabled: 1
+    path: Assets/Scenes/Desktop/InstructionsScreen.unity
+    guid: 4bc2c2d1edaf7924b98db42dfb8a368d
+  - enabled: 1
+    path: Assets/Scenes/Desktop/StageA.unity
+    guid: 95656155e5b6d2e4882b44cd9da5dd7c
+  - enabled: 1
+    path: Assets/Scenes/Desktop/StageB.unity
+    guid: cb1a5ee613d7275489d430a24a600d59
+  - enabled: 1
+    path: Assets/Scenes/Desktop/StageC.unity
+    guid: 39720cd080ff0a64d82f686766e2b1ca
+  - enabled: 1
+    path: Assets/Scenes/Desktop/StageD.unity
+    guid: db4189da804bd4b418905b35c945ca67
+  - enabled: 1
+    path: Assets/Scenes/Desktop/StageE.unity
+    guid: 2955f0aeafa793f46aa9c9ff5ba1cd2c
+  - enabled: 1
+    path: Assets/Scenes/Desktop/StageF.unity
+    guid: f19137c98164f7745a85830ed62ac081
+  - enabled: 1
+    path: Assets/Scenes/Desktop/StageG.unity
+    guid: 2015267f9f39ae74f9d6d3998d0540ef
+  - enabled: 1
+    path: Assets/Scenes/Desktop/StageH.unity
+    guid: a2fbd3cc2b8bcd84caf13c9c538b578d
+  - enabled: 1
+    path: Assets/Scenes/Desktop/StageI.unity
+    guid: 9c4a29e789e223b48943fb7894ea5150
+  - enabled: 1
+    path: Assets/Scenes/Desktop/StageJ.unity
+    guid: 4362bae43859dc249ba30fa5de160db8
+  - enabled: 1
+    path: Assets/Scenes/Desktop/StageK.unity
+    guid: 899b46f3de9627846b96ac1befeedbbb
+  - enabled: 1
+    path: Assets/Scenes/Desktop/StageL.unity
+    guid: cab0a3890aaf62f40a9af173dad4211b
+  - enabled: 1
+    path: Assets/Scenes/Desktop/StageM.unity
+    guid: 04266785a1d3fc249bb254729ad07d41
+  - enabled: 1
+    path: Assets/Scenes/Desktop/StageN.unity
+    guid: d482ca3b38d1e9346b36c7dd0d398d91
+  - enabled: 1
+    path: Assets/Scenes/Desktop/StageO.unity
+    guid: 45a26b84ff4ec6d4f82007c43857243c
+  - enabled: 1
+    path: Assets/Scenes/Desktop/StageP.unity
+    guid: 2fc2d9fa9f399524cb953df4ba110314
+  - enabled: 1
+    path: Assets/Scenes/Desktop/StageQ.unity
+    guid: 63e2da6a8c0119440a74ffc7f24cd63a
+  - enabled: 1
+    path: Assets/Scenes/Desktop/StageR.unity
+    guid: edad972d6054a444ba3f7a36ee51cec1
+  - enabled: 1
+    path: Assets/Scenes/Desktop/StageS.unity
+    guid: 290d5eab92dd5904a963e26233a9198b
+  - enabled: 1
+    path: Assets/Scenes/Desktop/StageT.unity
+    guid: 128886e51dc32384fb87b140158a4e32
+  - enabled: 1
+    path: Assets/Scenes/Desktop/StageU.unity
+    guid: 0c0c0bbea8ee66d4ea435f091807ace3
+  - enabled: 1
+    path: Assets/Scenes/Desktop/StageV.unity
+    guid: f7ee79e75ea2f8644aca1bb66a48d5d9
+  - enabled: 1
+    path: Assets/Scenes/Desktop/StageW.unity
+    guid: 889fa68fd63fdf64eb577bf91794d4ab
+  - enabled: 1
+    path: Assets/Scenes/Desktop/StageX.unity
+    guid: 4d351381b7946db479f87553e1d6b688
+  - enabled: 1
+    path: Assets/Scenes/Desktop/StageY.unity
+    guid: 9f8b04f621232614881cda43756c10ca
+  - enabled: 1
+    path: Assets/Scenes/Desktop/StageZ.unity
+    guid: 2a48b082e6d9d224db6449cc3a88379c
+  - enabled: 1
+    path: Assets/Scenes/Mobile/InitialMobile.unity
+    guid: 63f1e0a6c932c9c4c9ebdb2ef2e262ca
+  - enabled: 1
+    path: Assets/Scenes/Mobile/InstructionsMobile.unity
+    guid: c5402a81f58bf584f8f57e33784febcf
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileA.unity
+    guid: eab9d08d07b164746976ad7a7ec9c891
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileB.unity
+    guid: 375f94a1c165d0544b1bce9da0d6ff28
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileC.unity
+    guid: 68d76629e438c5045beb87a8f3fda815
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileD.unity
+    guid: 8212720b391f27a46a0f9bb1e01e31d7
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileE.unity
+    guid: b1b9c45cb39579542b17751a90f14189
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileF.unity
+    guid: 968aefe1bd7bcdd45b8918bb006345fd
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileG.unity
+    guid: 2a8deff6737d00444b06e7b260d51462
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileH.unity
+    guid: 15202aad12b0fa04ba0514075e746e2b
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileI.unity
+    guid: 44fb0126c5fdd9640b40ecda7b91db0f
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileJ.unity
+    guid: 53370020abaa3884e8d905fc030f233c
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileK.unity
+    guid: 2b23bc3f70ab86646b264a8919c763e3
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileL.unity
+    guid: afab38c1b2905b04581ab7dff82bd615
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileM.unity
+    guid: 4e9c004c5af382349a892cb0d9938148
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileN.unity
+    guid: 328c8b7b54d8de640866cb0381139c36
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileO.unity
+    guid: 3f339e61882ebcf47bb381e4e5c8b1e7
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileP.unity
+    guid: 2cd883e7f90ce0948a04854d50fab6e5
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileQ.unity
+    guid: fa4eede069f640b40bd117049d4da378
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileR.unity
+    guid: eadde8e2e300ef744a19ad4a5bc50c61
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileS.unity
+    guid: 47974a0d53dea6c4b8e7bd2d0e8b3420
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileT.unity
+    guid: f2c19cab3d1402e47b4b2d4a3dc0d76c
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileU.unity
+    guid: 02d22b2a46a46304d91655fe9d23ce9a
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileV.unity
+    guid: 0927f09c9917a6c41b7fdf7ee5a187d3
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileW.unity
+    guid: 25745880e356c974196c80d103d0f035
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileX.unity
+    guid: 9e2b520489f83a44e9e4d06b378bc50f
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileY.unity
+    guid: 3a2c37bf766cb5043ab26e45ffe9db83
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileZ.unity
+    guid: d8fb83f97cab96a4694385e741ac01dd
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileZ 1.unity
+    guid: 7913c9df820104b45b658c5232e3a6ed
+  m_configObjects: {}
