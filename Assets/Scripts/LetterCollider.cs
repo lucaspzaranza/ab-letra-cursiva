@@ -31,7 +31,6 @@ public class LetterCollider : MonoBehaviour
         if (collision.gameObject.CompareTag("DrawTraces") && !Checked)
         {
             Checked = true;
-            Debug.Log("Checked 3D");
             OnLetterColliderChecked?.Invoke();
             gameObject.SetActive(false);
         }

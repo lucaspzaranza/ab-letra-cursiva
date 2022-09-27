@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/SceneSelector.unity
+    guid: 90bf0f006031d4c4c98cfc1c226bd2f4
+  - enabled: 1
     path: Assets/Scenes/Desktop/InitialScreen.unity
     guid: fb27fb9833c51c44abbc3e5a98ef0d8b
   - enabled: 1
@@ -171,9 +174,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Mobile/MobileY.unity
     guid: 3a2c37bf766cb5043ab26e45ffe9db83
   - enabled: 1
-    path: Assets/Scenes/Mobile/MobileZ.unity
-    guid: d8fb83f97cab96a4694385e741ac01dd
-  - enabled: 1
     path: Assets/Scenes/Mobile/MobileZ 1.unity
     guid: 7913c9df820104b45b658c5232e3a6ed
+  - enabled: 1
+    path: Assets/Scenes/Mobile/MobileZ.unity
+    guid: d8fb83f97cab96a4694385e741ac01dd
   m_configObjects: {}

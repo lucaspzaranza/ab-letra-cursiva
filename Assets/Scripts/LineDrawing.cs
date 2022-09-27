@@ -13,7 +13,6 @@ public class LineDrawing : MonoBehaviour
     public Material[] mats;
     public Rigidbody _rigidbody;
     public bool isErasing;
-    public int checkPointIndex = 0;
 
     private GameObject brushInstance;
     private LineRenderer currentLineRenderer;
@@ -26,8 +25,14 @@ public class LineDrawing : MonoBehaviour
 
     private void Start()
     {
-        LetterScript.BeginErasing += () => isErasing = true;
+        LetterScript.BeginErasing += SetIsErasingToTrue;
         LetterScript.OnErasedAll += DestroyAllMeshColliders;
+    }
+
+    private void OnDestroy()
+    {
+        LetterScript.BeginErasing -= SetIsErasingToTrue;
+        LetterScript.OnErasedAll -= DestroyAllMeshColliders;
     }
 
     private void Update()
@@ -77,6 +82,8 @@ public class LineDrawing : MonoBehaviour
     {
         _rigidbody.isKinematic = !_rigidbody.isKinematic;
     }
+
+    private void SetIsErasingToTrue() => isErasing = true;
 
     private void DestroyAllMeshColliders()
     {
